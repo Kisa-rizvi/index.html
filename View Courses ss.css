@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width, initial-scale=1.0">
+    <title>View Courses</title>
+</head>
+<body>
+    <h1>Our Best Courses</h1>
+<div class="English"></div>
+    <h2>English courses</h2>
+   <img src="eng.htm">
+    <p> We know that English is the most understood language today, with 2 billion speakers across the world. 
+    English is not just the most common language: it’s also the most important one for you to learn for many reasons!    
+    The British Council conducted interviews with six English language students to understand the ways in which their English courses were impacting their lives. They found that English was a liberating force: enabling the learners to be competitive in the job market, access college-education overseas and enhance their ability to access information and build friendships online. 
+    This important language has changed the lives of so many people. It could just change your life too. </p>
+</div>
+<div class="Art">
+ <h2>Arts courses</h2>
+ <img src="arts.htm">
+ <p> Art is a multifaceted phenomenon, serving as a reflection of our innermost emotions and the world around us. It evokes feelings, from joy and sorrow to anger, creating a bridge of understanding between diverse groups of people. By transcending languages and cultures, art becomes an invaluable asset in fostering unity and peace.Art is not just an expression of emotion but also a medium for communicating ideas. It can act as therapeutic relief, a conduit for self-expression, or simply a way to appreciate life's beauty. Through art, we can chronicle history, embody societal values, and comment on political or social events.</p>
+</div>
+<br>
+<div class="science">
+ <h2>Science courses</h2>
+ <img src="science.jfif">
+ <p> Science in Everyday life plays a significant role in our daily lives, beyond just cooking or boiling water. It’s not limited to our kitchen activities. In fact, science is all around us, even in the large factories that make various products using different chemical processes</p>
+ <p> Science in daily life plays a crucial role that cannot be overstated. The importance of science in everyday life is evident in our reliance on various scientific innovations and principles. From the moment we wake up to the time we go to bed, we encounter the impact of science at every turn. Our smartphones and computers, which have become indispensable tools, are a testament to the significance of science in our daily routines. Furthermore, advancements in medical science, such as plastic surgery and X-ray technology, have improved our health and well-being.</p>
+</div>
+
+
+
+
+</body>
+</html>
